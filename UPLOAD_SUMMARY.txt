@@ -1,0 +1,59 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    🚀 QUICK GITHUB UPLOAD COMMANDS                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📍 Open Terminal and run these commands IN ORDER:
+
+1️⃣  Navigate to your project:
+    cd /Users/alexcalin/Desktop/progetto
+
+2️⃣  Clean build files:
+    make clean
+
+3️⃣  Initialize Git:
+    git init
+    git add .
+    git commit -m "Initial commit: Chain reaction simulator"
+
+4️⃣  Create repository on GitHub:
+    • Go to: https://github.com/new
+    • Name: reazione-a-catena
+    • Description: Nuclear chain reaction simulator using multi-process IPC
+    • DON'T check "Initialize with README"
+    • Click "Create repository"
+
+5️⃣  Connect and push (replace YOUR_USERNAME with your GitHub username):
+    git remote add origin https://github.com/YOUR_USERNAME/reazione-a-catena.git
+    git branch -M main
+    git push -u origin main
+
+    ⚠️  Authentication:
+    • Username: Your GitHub username
+    • Password: Use a Personal Access Token (NOT your password!)
+    • Get token at: https://github.com/settings/tokens
+
+6️⃣  View your repo:
+    https://github.com/YOUR_USERNAME/reazione-a-catena
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    ✅ YOUR README WILL LOOK AMAZING!                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+✨ Features of your new README:
+  • Beautiful formatting with emoji and tables
+  • Professional badges at the top
+  • Clickable table of contents
+  • Syntax-highlighted code examples
+  • Clear installation instructions
+  • Multiple test scenarios
+  • Configuration table
+  • Project structure diagram
+
+📖 For detailed step-by-step instructions, see:
+    GITHUB_UPLOAD_GUIDE.md
+
+🎯 After uploading, don't forget to:
+  • Add topics: c, operating-systems, ipc, multi-processing, macos
+  • Star your own repo ⭐
+  • Share the link!
+
